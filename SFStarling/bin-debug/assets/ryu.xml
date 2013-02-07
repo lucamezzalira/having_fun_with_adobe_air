@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0e597686aa7a7e4a996539367c4e4c53$ -->
+<TextureAtlas imagePath="ryu.png">
+    <SubTexture name="ball" x="2" y="2" width="124" height="72"/>
+    <SubTexture name="hoduken" x="128" y="2" width="186" height="150"/>
+    <SubTexture name="ryu1" x="316" y="2" width="78" height="150"/>
+    <SubTexture name="ryu2" x="396" y="2" width="78" height="150"/>
+    <SubTexture name="ryu3" x="2" y="154" width="78" height="150"/>
+    <SubTexture name="ryu4" x="82" y="154" width="78" height="150"/>
+    <SubTexture name="ryu5" x="162" y="154" width="78" height="150"/>
+    <SubTexture name="ryu6" x="242" y="154" width="78" height="150"/>
+</TextureAtlas>
