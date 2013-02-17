@@ -16,7 +16,7 @@ package com.insideabit.hfwaa.mediators
 		
 		override public function onRegister():void{
 			
-			view.init(null)
+			view.init()
 			trace("Skeleton Mediator registered")
 		}
 		

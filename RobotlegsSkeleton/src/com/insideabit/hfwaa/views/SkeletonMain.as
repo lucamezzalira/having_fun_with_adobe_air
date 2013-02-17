@@ -22,11 +22,9 @@ package com.insideabit.hfwaa.views
 			
 			_context = new SkeletonContext(this);
 			
-			//this.addEventListener(Event.ADDED_TO_STAGE, init);
-			
 		}
 		
-		public function init(e:Event):void
+		public function init():void
 		{
 			
 			_theme = new MinimalMobileTheme(stage);

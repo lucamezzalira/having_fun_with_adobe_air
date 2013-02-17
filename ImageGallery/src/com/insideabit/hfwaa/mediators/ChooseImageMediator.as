@@ -21,11 +21,6 @@ package com.insideabit.hfwaa.mediators
 			addContextListener(AppEvent.CAMERA_ROLL_ERROR, showErrorMessage);
 		}
 		
-		private function showImage():void
-		{
-			//aggiungere immagine + filtri alla displaylist e cancellare pulsante
-		}
-		
 		private function showErrorMessage(e:AppEvent):void
 		{
 			trace("show error message")
